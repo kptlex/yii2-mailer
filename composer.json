@@ -1,0 +1,21 @@
+{
+  "name": "kptlex/yii2-mailer",
+  "description": "Yii2 queue mail service",
+  "type": "library",
+  "require": {
+    "yiisoft/yii2": "^2.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Lex\\Yii2\\Mailer\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Alexandr Satyshev",
+      "email": "kptlex@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
